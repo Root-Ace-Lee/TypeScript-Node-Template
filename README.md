@@ -1,2 +1,2 @@
 # TypeScript-Node-Template
- This is a template for using TypeScript and Node
+This is a template for using TypeScript and Node
